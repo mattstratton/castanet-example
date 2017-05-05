@@ -1,4 +1,4 @@
-baseurl = "https://castanet-example.netlify.com/"
+baseurl = "https://castanet-example.netlify.com/orange-row/"
 languageCode = "en-us"
 title = "HugoCast"
 theme = "castanet"
