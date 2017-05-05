@@ -2,4 +2,4 @@ hugo_0.19 --theme=castanet --buildDrafts=false -d public/blue-grid --config conf
 hugo_0.19 --theme=castanet --buildDrafts=false -d public/blue-row --config config-blue-row.toml
 hugo_0.19 --theme=castanet --buildDrafts=false -d public/orange-grid --config config-orange-grid.toml
 hugo_0.19 --theme=castanet --buildDrafts=false -d public/orange-row --config config-orange-row.toml
-cp static/index.html public/index.html
+cp -r home/* public/
