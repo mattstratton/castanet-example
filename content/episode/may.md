@@ -6,6 +6,7 @@ categories = []
 date = "2016-05-25T04:09:48-05:00"
 episode = "8"
 episode_image = "img/episode/may.jpg"
+episode_banner = "img/episode/default-banner.jpg"
 explicit = "no"
 guests = ["gbluth"]
 images = ["img/episode/default-social.jpg"]
@@ -15,6 +16,6 @@ podcast_file = "arrested-devops-podcast-episode053.mp3"
 podcast_bytes = ""
 tags = []
 title = "Pretty Flowers"
-youtube = ""
+youtube = "X56Bt2zDNyA"
 
 +++
