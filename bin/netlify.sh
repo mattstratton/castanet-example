@@ -1,3 +1,4 @@
+git submodule update --remote themes/castanet
 hugo --theme=castanet --buildDrafts=false -d public/blue-grid --config config-blue-grid.toml
 hugo --theme=castanet --buildDrafts=false -d public/blue-row --config config-blue-row.toml
 hugo --theme=castanet --buildDrafts=false -d public/blue-row-jumbo --config config-blue-row-jumbo.toml
